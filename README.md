@@ -46,3 +46,5 @@ INSERT INTO ADDRESS VALUES(4, 'address-4-4', '2014-01-01', 1000);
 9. Show all people that live in the address that begins with address-4. Make sure this query can be run and include any new people that move in to that address.
 
 10. Show the average each person pays for rent each year.
+<hr>
+2 points.
